@@ -21,7 +21,7 @@ spec:
 
     image:
       repository: alizandieh2019/react_app
-      tag: 3
+      tag: 2
       pullPolicy: Always
       
     containerPort: 80
